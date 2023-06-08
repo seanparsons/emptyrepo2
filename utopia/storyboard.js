@@ -3,7 +3,6 @@ import { Scene, Storyboard } from 'utopia-api'
 import { App } from '/src/app.js'
 import { Playground } from '/src/playground.js'
 
-// Cake
 export var storyboard = (
   <Storyboard>
     <Scene
