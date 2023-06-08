@@ -1,6 +1,6 @@
 {
   "name": "Utopia Project",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "utopia": {
     "main-ui": "utopia/storyboard.js",
     "html": "public/index.html",
